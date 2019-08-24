@@ -17,9 +17,6 @@ import org.wd.hrm.service.HrmService;
 import org.wd.hrm.util.common.HrmConstants;
 import org.wd.hrm.util.tag.PageModel;
 
-/**   
- * @Description: 处理公告请求控制器  
- */
 
 @Controller
 public class NoticeController {

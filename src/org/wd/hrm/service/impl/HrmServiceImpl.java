@@ -24,12 +24,6 @@ import org.wd.hrm.domain.User;
 import org.wd.hrm.service.HrmService;
 import org.wd.hrm.util.tag.PageModel;
 
-/**   
- * @Description: 人事管理系统服务层接口实现类
- * <br>网站：<a href="http://www.fkit.org">疯狂Java</a> 
- * @author 肖文吉	36750064@qq.com   
- * @version V1.0   
- */
 @Transactional(propagation=Propagation.REQUIRED,isolation=Isolation.DEFAULT)
 @Service("hrmService")
 public class HrmServiceImpl implements HrmService{

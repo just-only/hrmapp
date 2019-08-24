@@ -4,12 +4,6 @@ import java.io.Serializable;
 import java.util.Date;
 
 
-/**   
- * @Description: 
- * <br>网站：<a href="http://www.fkit.org">疯狂Java</a> 
- * @author 肖文吉	36750064@qq.com   
- * @version V1.0   
- */
 public class User implements Serializable {
 
 	private static final long serialVersionUID = 1L;
